@@ -12,6 +12,7 @@ read name
 
 #print statement to user
 echo "Hey, $name"
+
 ###############################################
 
 #**Hey Day**  
