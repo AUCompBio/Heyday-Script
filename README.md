@@ -4,10 +4,10 @@
 ######### Hey Day Script#####################
 #! /bin/bash
 
-#Type your name
+#Type User name
 `echo "Enter your name"`
 
-#read assigns user input to variable name
+#Read assigns user input to a variable name
 `read name` 
 
 #print statement to user
