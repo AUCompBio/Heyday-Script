@@ -9,4 +9,4 @@ Each year we carry on this tradition of handing out name tags and encouraging st
 This year’s Hey Day will be hosted on October 14, 2020.
 
 #How Auburn tigers celebrate it !!!
-<img src=`https://cdn.auburn.edu/assets/css/bootstrap.min.css.map`>
+<img src=`https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F458733912013668990%2F&psig=AOvVaw080QVSZpuRm29yV-rDkDZe&ust=1602378146214000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjs-_PpqOwCFQAAAAAdAAAAABAI`>
