@@ -10,4 +10,4 @@ This year’s Hey Day will be hosted on October 14, 2020.
 
 #How Auburn tigers celebrate it !!!
 Here is the link (http://sga.auburn.edu/hey-day/) how Auburn Tigers celebrate Hey Day.
-Have fun!
+Have fun ON "Hey Day!
