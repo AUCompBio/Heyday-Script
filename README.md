@@ -6,12 +6,15 @@
 #! /bin/bash
 
 #Type User name
+
 `echo "Enter your name"`
 
 #Read assigns user input to a variable name
+
 `read name` 
 
 #print statement to user
+
 `echo "Hey, $name"`
 
 ###############################################
