@@ -1,7 +1,7 @@
 
 
 ## This Script is about Hey Day!
-######### Hey Day Script#####################
+#######Hey Day Script#############
 
 #! /bin/bash
 
@@ -17,10 +17,11 @@
 
 `echo "Hey, $name"`
 
-###############################################
+###############################
 
 #**Hey Day**  
-<img src='https://media.giphy.com/media/d7OMLLA9oWH2JzSQyT/source.gif' width='200' height='200'/>
+
+This script is about Hey Day. It asks user "Name" and after user input name, it replies Hey," Name". It's a fun way of user and terminal interaction. 
 
 # Some background about Hey Day
 Dating all the way back to World War II, Auburn University’s student body and members of the Student Government Association pushed for a day that would unite the Auburn Family and promote a friendly atmosphere known as HEY DAY.
