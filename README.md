@@ -19,7 +19,7 @@
 
 ########################
 
-#**Hey Day**  
+# Hey Day  
 
 This script is about Hey Day. It asks user "Name" and after user input name, it replies Hey," Name". It's a fun way of user and terminal interaction. 
 
