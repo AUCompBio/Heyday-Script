@@ -1,7 +1,7 @@
 
 
 ## This Script is about Hey Day!
-#######Hey Day Script#############
+####Hey Day Script######
 
 #! /bin/bash
 
@@ -17,7 +17,7 @@
 
 `echo "Hey, $name"`
 
-###############################
+########################
 
 #**Hey Day**  
 
